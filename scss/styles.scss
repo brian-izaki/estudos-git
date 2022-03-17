@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+    border: 2px solid #eeefff;
+    border-radius: 10px;
+    padding: 5px;
+    img {
+        width: 100%;
+    }
+}
